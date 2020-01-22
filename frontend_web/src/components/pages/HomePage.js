@@ -6,9 +6,6 @@ class HomePage extends Component {
         return (
             <div>
                 <h5>Home Page</h5>
-                <NavLink to="/contact">
-                    Contact
-                </NavLink>
             </div>
         );
     }
